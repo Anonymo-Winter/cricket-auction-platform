@@ -1,0 +1,907 @@
+[
+    {
+        "name": "Virat Kohli",
+        "dateOfBirth": "1988-11-05T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-medium",
+        "iplDebut": 2008,
+        "matches": 237,
+        "battingStats": {
+            "innings": 229,
+            "runs": 7263,
+            "average": 37.25,
+            "strike_rate": 130.02,
+            "highest_score": 113,
+            "fifties": 50,
+            "centuries": 7,
+            "fours": 643,
+            "sixes": 234,
+            "notOuts": 34
+        },
+        "bowlingStats": {
+            "innings": 29,
+            "overs": 50.1,
+            "wickets": 4,
+            "economy": 8.62,
+            "average": 108.25,
+            "best_figures": {
+                "wickets": 2,
+                "runs": 25
+            },
+            "dot_balls": 72,
+            "runs_conceded": 433
+        },
+        "basePrice": 20000000,
+        "status": "available",
+        "specializations": ["chase-master", "anchor"],
+        "rankings": {
+            "t20": 15,
+            "ipl": 3
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 111,
+            "odis": 292,
+            "t20is": 117
+        }
+    },
+    {
+        "name": "MS Dhoni",
+        "dateOfBirth": "1981-07-07T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/57.png",
+        "role": "wicket-keeper-batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "none",
+        "iplDebut": 2008,
+        "matches": 250,
+        "battingStats": {
+            "innings": 218,
+            "runs": 5082,
+            "average": 38.79,
+            "strike_rate": 135.92,
+            "highest_score": 84,
+            "fifties": 24,
+            "centuries": 0,
+            "fours": 346,
+            "sixes": 239,
+            "notOuts": 87
+        },
+        "basePrice": 12000000,
+        "status": "available",
+        "specializations": ["finisher", "wicket-keeper"],
+        "rankings": {
+            "t20": 28,
+            "ipl": 7
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 90,
+            "odis": 350,
+            "t20is": 98
+        }
+    },
+    {
+        "name": "Rohit Sharma",
+        "dateOfBirth": "1987-04-30T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2008,
+        "matches": 243,
+        "battingStats": {
+            "innings": 238,
+            "runs": 6211,
+            "average": 29.58,
+            "strike_rate": 130.39,
+            "highest_score": 109,
+            "fifties": 42,
+            "centuries": 1,
+            "fours": 554,
+            "sixes": 257,
+            "notOuts": 28
+        },
+        "bowlingStats": {
+            "innings": 22,
+            "overs": 38.3,
+            "wickets": 15,
+            "economy": 8.75,
+            "average": 32.53,
+            "best_figures": {
+                "wickets": 2,
+                "runs": 12
+            },
+            "dot_balls": 67,
+            "runs_conceded": 488
+        },
+        "basePrice": 16000000,
+        "status": "available",
+        "specializations": ["opener", "captain"],
+        "rankings": {
+            "t20": 12,
+            "ipl": 5
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 52,
+            "odis": 262,
+            "t20is": 151
+        }
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "dateOfBirth": "1993-12-06T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png",
+        "role": "bowler",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-fast",
+        "iplDebut": 2013,
+        "matches": 120,
+        "bowlingStats": {
+            "innings": 120,
+            "overs": 458.2,
+            "wickets": 145,
+            "economy": 7.39,
+            "average": 23.31,
+            "best_figures": {
+                "wickets": 4,
+                "runs": 14
+            },
+            "five_wickets": 0,
+            "dot_balls": 1124,
+            "runs_conceded": 3386
+        },
+        "battingStats": {
+            "innings": 32,
+            "runs": 56,
+            "average": 5.09,
+            "strike_rate": 89.52,
+            "highest_score": 10,
+            "fours": 6,
+            "sixes": 1
+        },
+        "basePrice": 12000000,
+        "status": "available",
+        "specializations": ["death-bowling", "yorkers"],
+        "rankings": {
+            "t20": 2,
+            "ipl": 1
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 33,
+            "odis": 89,
+            "t20is": 62
+        }
+    },
+    {
+        "name": "Hardik Pandya",
+        "dateOfBirth": "1993-10-11T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/54.png",
+        "role": "all-rounder",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-medium",
+        "iplDebut": 2015,
+        "matches": 123,
+        "battingStats": {
+            "innings": 107,
+            "runs": 2181,
+            "average": 29.47,
+            "strike_rate": 147.32,
+            "highest_score": 91,
+            "fifties": 10,
+            "centuries": 0,
+            "fours": 156,
+            "sixes": 123,
+            "notOuts": 22
+        },
+        "bowlingStats": {
+            "innings": 97,
+            "overs": 298.1,
+            "wickets": 53,
+            "economy": 8.82,
+            "average": 33.47,
+            "best_figures": {
+                "wickets": 3,
+                "runs": 17
+            },
+            "dot_balls": 487,
+            "runs_conceded": 2630
+        },
+        "basePrice": 15000000,
+        "status": "available",
+        "specializations": ["power-hitter", "finisher"],
+        "rankings": {
+            "t20": 8,
+            "ipl": 9
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 11,
+            "odis": 86,
+            "t20is": 92
+        }
+    },
+    {
+        "name": "Rashid Khan",
+        "dateOfBirth": "1998-09-20T00:00:00.000Z",
+        "nationality": "Afghan",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/218.png",
+        "role": "bowler",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2017,
+        "matches": 109,
+        "bowlingStats": {
+            "innings": 109,
+            "overs": 430.2,
+            "wickets": 139,
+            "economy": 6.67,
+            "average": 20.75,
+            "best_figures": {
+                "wickets": 4,
+                "runs": 24
+            },
+            "five_wickets": 0,
+            "dot_balls": 1023,
+            "runs_conceded": 2885
+        },
+        "battingStats": {
+            "innings": 60,
+            "runs": 425,
+            "average": 12.5,
+            "strike_rate": 142.95,
+            "highest_score": 40,
+            "fours": 28,
+            "sixes": 22
+        },
+        "basePrice": 15000000,
+        "status": "available",
+        "specializations": ["spin", "economical"],
+        "rankings": {
+            "t20": 1,
+            "ipl": 2
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 5,
+            "odis": 103,
+            "t20is": 82
+        }
+    },
+    {
+        "name": "KL Rahul",
+        "dateOfBirth": "1992-04-18T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png",
+        "role": "wicket-keeper-batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "none",
+        "iplDebut": 2013,
+        "matches": 118,
+        "battingStats": {
+            "innings": 109,
+            "runs": 4163,
+            "average": 46.77,
+            "strike_rate": 134.42,
+            "highest_score": 132,
+            "fifties": 33,
+            "centuries": 4,
+            "fours": 355,
+            "sixes": 168,
+            "notOuts": 20
+        },
+        "basePrice": 17000000,
+        "status": "avalable",
+        "specializations": ["opener", "wicket-keeper"],
+        "rankings": {
+            "t20": 6,
+            "ipl": 4
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 47,
+            "odis": 72,
+            "t20is": 72
+        }
+    },
+    {
+        "name": "David Warner",
+        "dateOfBirth": "1986-10-27T00:00:00.000Z",
+        "nationality": "Australian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/214.png",
+        "role": "batsman",
+        "battingStyle": "left-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2009,
+        "matches": 176,
+        "battingStats": {
+            "innings": 176,
+            "runs": 6397,
+            "average": 41.54,
+            "strike_rate": 139.92,
+            "highest_score": 126,
+            "fifties": 61,
+            "centuries": 4,
+            "fours": 646,
+            "sixes": 226,
+            "notOuts": 16
+        },
+        "bowlingStats": {
+            "innings": 12,
+            "overs": 16,
+            "wickets": 4,
+            "economy": 7.75,
+            "average": 31,
+            "best_figures": {
+                "wickets": 2,
+                "runs": 25
+            },
+            "dot_balls": 28,
+            "runs_conceded": 124
+        },
+        "basePrice": 16000000,
+        "status": "avalable",
+        "specializations": ["opener", "aggressive"],
+        "rankings": {
+            "t20": 9,
+            "ipl": 6
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 103,
+            "odis": 161,
+            "t20is": 99
+        }
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "dateOfBirth": "1988-12-06T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/46.png",
+        "role": "all-rounder",
+        "battingStyle": "left-handed",
+        "bowlingStyle": "left-arm-spin",
+        "iplDebut": 2008,
+        "matches": 226,
+        "battingStats": {
+            "innings": 173,
+            "runs": 2692,
+            "average": 26.39,
+            "strike_rate": 127.67,
+            "highest_score": 62,
+            "fifties": 11,
+            "centuries": 0,
+            "fours": 208,
+            "sixes": 102,
+            "notOuts": 35
+        },
+        "bowlingStats": {
+            "innings": 208,
+            "overs": 725.3,
+            "wickets": 152,
+            "economy": 7.61,
+            "average": 29.58,
+            "best_figures": {
+                "wickets": 5,
+                "runs": 16
+            },
+            "five_wickets": 1,
+            "dot_balls": 1425,
+            "runs_conceded": 4496
+        },
+        "basePrice": 16000000,
+        "status": "avalable",
+        "specializations": ["all-rounder", "fielder"],
+        "rankings": {
+            "t20": 11,
+            "ipl": 8
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 65,
+            "odis": 197,
+            "t20is": 66
+        }
+    },
+    {
+        "name": "Jos Buttler",
+        "dateOfBirth": "1990-09-08T00:00:00.000Z",
+        "nationality": "English",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png",
+        "role": "wicket-keeper-batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "none",
+        "iplDebut": 2016,
+        "matches": 96,
+        "battingStats": {
+            "innings": 96,
+            "runs": 3223,
+            "average": 37.47,
+            "strike_rate": 149.45,
+            "highest_score": 124,
+            "fifties": 19,
+            "centuries": 5,
+            "fours": 304,
+            "sixes": 149,
+            "notOuts": 12
+        },
+        "basePrice": 10000000,
+        "status": "avalable",
+        "specializations": ["opener", "wicket-keeper"],
+        "rankings": {
+            "t20": 5,
+            "ipl": 10
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 57,
+            "odis": 165,
+            "t20is": 114
+        }
+    },
+    {
+        "name": "Shreyas Iyer",
+        "dateOfBirth": "1994-12-06T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1541.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2015,
+        "matches": 101,
+        "battingStats": {
+            "innings": 96,
+            "runs": 2776,
+            "average": 31.55,
+            "strike_rate": 125.38,
+            "highest_score": 96,
+            "fifties": 19,
+            "centuries": 0,
+            "fours": 244,
+            "sixes": 96,
+            "notOuts": 12
+        },
+        "bowlingStats": {
+            "innings": 4,
+            "overs": 3,
+            "wickets": 0,
+            "economy": 10.66,
+            "dot_balls": 4,
+            "runs_conceded": 32
+        },
+        "basePrice": 12000000,
+        "status": "avalable",
+        "specializations": ["middle-order", "captain"],
+        "rankings": {
+            "t20": 18,
+            "ipl": 15
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 10,
+            "odis": 42,
+            "t20is": 51
+        }
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "dateOfBirth": "1990-07-23T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/10.png",
+        "role": "bowler",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2013,
+        "matches": 145,
+        "bowlingStats": {
+            "innings": 145,
+            "overs": 539.4,
+            "wickets": 187,
+            "economy": 7.67,
+            "average": 21.69,
+            "best_figures": {
+                "wickets": 5,
+                "runs": 40
+            },
+            "five_wickets": 1,
+            "dot_balls": 1125,
+            "runs_conceded": 4056
+        },
+        "battingStats": {
+            "innings": 35,
+            "runs": 111,
+            "average": 7.92,
+            "strike_rate": 101.83,
+            "highest_score": 18,
+            "fours": 9,
+            "sixes": 4
+        },
+        "basePrice": 8000000,
+        "status": "avalable",
+        "specializations": ["spin", "wicket-taker"],
+        "rankings": {
+            "t20": 7,
+            "ipl": 12
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 3,
+            "odis": 72,
+            "t20is": 75
+        }
+    },
+    {
+        "name": "Andre Russell",
+        "dateOfBirth": "1988-04-29T00:00:00.000Z",
+        "nationality": "West Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png",
+        "role": "all-rounder",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-fast",
+        "iplDebut": 2012,
+        "matches": 98,
+        "battingStats": {
+            "innings": 85,
+            "runs": 2100,
+            "average": 29.16,
+            "strike_rate": 177.88,
+            "highest_score": 88,
+            "fifties": 10,
+            "centuries": 0,
+            "fours": 140,
+            "sixes": 170,
+            "notOuts": 15
+        },
+        "bowlingStats": {
+            "innings": 84,
+            "overs": 260.2,
+            "wickets": 89,
+            "economy": 9.14,
+            "average": 24.92,
+            "best_figures": {
+                "wickets": 5,
+                "runs": 15
+            },
+            "five_wickets": 1,
+            "dot_balls": 487,
+            "runs_conceded": 2218
+        },
+        "basePrice": 12000000,
+        "status": "avalable",
+        "specializations": ["power-hitter", "finisher"],
+        "rankings": {
+            "t20": 14,
+            "ipl": 11
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 1,
+            "odis": 56,
+            "t20is": 67
+        }
+    },
+    {
+        "name": "Kieron Pollard",
+        "dateOfBirth": "1987-05-12T00:00:00.000Z",
+        "nationality": "West Indian",
+        "image": "https://assets.iplt20.com/ipl/IPLHeadshot2022/107.png",
+        "role": "all-rounder",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-medium",
+        "iplDebut": 2010,
+        "matches": 189,
+        "battingStats": {
+            "innings": 171,
+            "runs": 3412,
+            "average": 28.67,
+            "strike_rate": 147.32,
+            "highest_score": 87,
+            "fifties": 16,
+            "centuries": 0,
+            "fours": 218,
+            "sixes": 223,
+            "notOuts": 52
+        },
+        "bowlingStats": {
+            "innings": 145,
+            "overs": 381.1,
+            "wickets": 69,
+            "economy": 8.78,
+            "average": 31.3,
+            "best_figures": {
+                "wickets": 4,
+                "runs": 25
+            },
+            "dot_balls": 725,
+            "runs_conceded": 3346
+        },
+        "basePrice": 6000000,
+        "status": "avalable",
+        "specializations": ["power-hitter", "finisher"],
+        "rankings": {
+            "t20": 22,
+            "ipl": 18
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 0,
+            "odis": 123,
+            "t20is": 101
+        }
+    },
+    {
+        "name": "Bhuvneshwar Kumar",
+        "dateOfBirth": "1990-02-05T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/15.png",
+        "role": "bowler",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-medium",
+        "iplDebut": 2011,
+        "matches": 146,
+        "bowlingStats": {
+            "innings": 146,
+            "overs": 542.4,
+            "wickets": 154,
+            "economy": 7.3,
+            "average": 24.72,
+            "best_figures": {
+                "wickets": 5,
+                "runs": 19
+            },
+            "five_wickets": 1,
+            "dot_balls": 1245,
+            "runs_conceded": 3807
+        },
+        "battingStats": {
+            "innings": 67,
+            "runs": 238,
+            "average": 8.78,
+            "strike_rate": 108.69,
+            "highest_score": 16,
+            "fours": 25,
+            "sixes": 6
+        },
+        "basePrice": 8500000,
+        "status": "avalable",
+        "specializations": ["swing", "powerplay"],
+        "rankings": {
+            "t20": 13,
+            "ipl": 14
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 21,
+            "odis": 121,
+            "t20is": 87
+        }
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "dateOfBirth": "1990-09-14T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/174.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2012,
+        "matches": 139,
+        "battingStats": {
+            "innings": 125,
+            "runs": 3249,
+            "average": 30.55,
+            "strike_rate": 136.25,
+            "highest_score": 83,
+            "fifties": 21,
+            "centuries": 0,
+            "fours": 337,
+            "sixes": 141,
+            "notOuts": 19
+        },
+        "bowlingStats": {
+            "innings": 12,
+            "overs": 13,
+            "wickets": 3,
+            "economy": 8.76,
+            "average": 38,
+            "best_figures": {
+                "wickets": 1,
+                "runs": 7
+            },
+            "dot_balls": 22,
+            "runs_conceded": 114
+        },
+        "basePrice": 8000000,
+        "status": "avalable",
+        "specializations": ["middle-order", "innovative"],
+        "rankings": {
+            "t20": 4,
+            "ipl": 13
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 1,
+            "odis": 37,
+            "t20is": 60
+        }
+    },
+    {
+        "name": "Faf du Plessis",
+        "dateOfBirth": "1984-07-13T00:00:00.000Z",
+        "nationality": "South African",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/94.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-leg-spin",
+        "iplDebut": 2012,
+        "matches": 130,
+        "battingStats": {
+            "innings": 124,
+            "runs": 4133,
+            "average": 36.08,
+            "strike_rate": 131.08,
+            "highest_score": 96,
+            "fifties": 33,
+            "centuries": 0,
+            "fours": 370,
+            "sixes": 140,
+            "notOuts": 10
+        },
+        "bowlingStats": {
+            "innings": 8,
+            "overs": 7,
+            "wickets": 0,
+            "economy": 9.14,
+            "dot_balls": 8,
+            "runs_conceded": 64
+        },
+        "basePrice": 7000000,
+        "status": "avalable",
+        "specializations": ["opener", "anchor"],
+        "rankings": {
+            "t20": 19,
+            "ipl": 16
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 69,
+            "odis": 143,
+            "t20is": 50
+        }
+    },
+    {
+        "name": "Quinton de Kock",
+        "dateOfBirth": "1992-12-17T00:00:00.000Z",
+        "nationality": "South African",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/170.png",
+        "role": "wicket-keeper-batsman",
+        "battingStyle": "left-handed",
+        "bowlingStyle": "none",
+        "iplDebut": 2013,
+        "matches": 96,
+        "battingStats": {
+            "innings": 96,
+            "runs": 2904,
+            "average": 32.26,
+            "strike_rate": 134.33,
+            "highest_score": 140,
+            "fifties": 21,
+            "centuries": 2,
+            "fours": 312,
+            "sixes": 106,
+            "notOuts": 6
+        },
+        "basePrice": 9000000,
+        "status": "avalable",
+        "specializations": ["opener", "wicket-keeper"],
+        "rankings": {
+            "t20": 10,
+            "ipl": 17
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 54,
+            "odis": 140,
+            "t20is": 80
+        }
+    },
+    {
+        "name": "Shubman Gill",
+        "dateOfBirth": "1999-09-08T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png",
+        "role": "batsman",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-off-spin",
+        "iplDebut": 2018,
+        "matches": 91,
+        "battingStats": {
+            "innings": 91,
+            "runs": 2790,
+            "average": 37.2,
+            "strike_rate": 132.3,
+            "highest_score": 129,
+            "fifties": 20,
+            "centuries": 3,
+            "fours": 259,
+            "sixes": 85,
+            "notOuts": 15
+        },
+        "bowlingStats": {
+            "innings": 1,
+            "overs": 1,
+            "wickets": 0,
+            "economy": 12,
+            "dot_balls": 1,
+            "runs_conceded": 12
+        },
+        "basePrice": 7000000,
+        "status": "avalable",
+        "specializations": ["opener", "elegant"],
+        "rankings": {
+            "t20": 16,
+            "ipl": 19
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 21,
+            "odis": 44,
+            "t20is": 14
+        }
+    },
+    {
+        "name": "Mohammed Shami",
+        "dateOfBirth": "1990-09-03T00:00:00.000Z",
+        "nationality": "Indian",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/47.png",
+        "role": "bowler",
+        "battingStyle": "right-handed",
+        "bowlingStyle": "right-arm-fast",
+        "iplDebut": 2013,
+        "matches": 110,
+        "bowlingStats": {
+            "innings": 110,
+            "overs": 407.4,
+            "wickets": 127,
+            "economy": 8.45,
+            "average": 26.63,
+            "best_figures": {
+                "wickets": 4,
+                "runs": 11
+            },
+            "five_wickets": 0,
+            "dot_balls": 987,
+            "runs_conceded": 3382
+        },
+        "battingStats": {
+            "innings": 42,
+            "runs": 117,
+            "average": 6.5,
+            "strike_rate": 104.46,
+            "highest_score": 21,
+            "fours": 12,
+            "sixes": 4
+        },
+        "basePrice": 6500000,
+        "status": "avalable",
+        "specializations": ["pace", "new-ball"],
+        "rankings": {
+            "t20": 17,
+            "ipl": 20
+        },
+        "isUncapped": false,
+        "internationalCaps": {
+            "tests": 64,
+            "odis": 101,
+            "t20is": 23
+        }
+    }
+]
